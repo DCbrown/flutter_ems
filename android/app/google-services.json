@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "608739650538",
+    "firebase_url": "https://employeems-e8ea6.firebaseio.com",
+    "project_id": "employeems-e8ea6",
+    "storage_bucket": "employeems-e8ea6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:608739650538:android:fcdfce982eeab42d50e093",
+        "android_client_info": {
+          "package_name": "com.example.flutter_ems"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "608739650538-97eb85kmu61t7hmvran7a4lai9joed8m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7OK9Y8TYsJ7gv9r4dTMcMZwFEJScaK2Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "608739650538-97eb85kmu61t7hmvran7a4lai9joed8m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
